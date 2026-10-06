@@ -213,5 +213,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <sub>Developed with ❤️ by the <b>GeoLibre & ShinyDataTech</b> team.</sub>
+  <sub>Inspired by <a href="https://github.com/opengeos/GeoLibre"><b>GeoLibre</b></a> and Developed with ❤️ by <b>ShinyDataTech</b> team.</sub>
 </div>
+
