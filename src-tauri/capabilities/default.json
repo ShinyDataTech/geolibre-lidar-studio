@@ -1,0 +1,12 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Default capabilities for GeoLibre LiDAR Studio",
+  "windows": ["main", "*"],
+  "permissions": [
+    "core:default",
+    "dialog:default",
+    "fs:default",
+    "opener:default"
+  ]
+}

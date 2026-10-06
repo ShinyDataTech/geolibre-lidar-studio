@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Tauri / Rust build artifacts
+src-tauri/target/
+src-tauri/gen/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Environment variables
+.env
+.env.*
+!.env.example
